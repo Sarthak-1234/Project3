@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="61" started-at="2019-02-18T10:07:21Z" finished-at="2019-02-18T10:07:21Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="61" started-at="2019-02-18T10:07:21Z" finished-at="2019-02-18T10:07:21Z">
+      <class name="Testing.ATest">
+        <test-method status="PASS" signature="test1()[pri:0, instance:Testing.ATest@36d4b5c]" name="test1" duration-ms="6" started-at="2019-02-18T10:07:21Z" finished-at="2019-02-18T10:07:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:Testing.ATest@36d4b5c]" name="test1" duration-ms="1" started-at="2019-02-18T10:07:21Z" finished-at="2019-02-18T10:07:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- Testing.ATest -->
+      <class name="Testing.BTest">
+        <test-method status="PASS" signature="test2()[pri:0, instance:Testing.BTest@2ef5e5e3]" name="test2" duration-ms="13" started-at="2019-02-18T10:07:21Z" finished-at="2019-02-18T10:07:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- Testing.BTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
